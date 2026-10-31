@@ -2,7 +2,8 @@
 
 ### Full Stack Web Developer | Mobile Developer
 
-Soy un desarrollador apasionado por la tecnología con sede en **Colima, México**. Me especializo en crear aplicaciones web dinámicas y soluciones móviles funcionales. Me encanta resolver problemas complejos, desde la reparación de hardware hasta el despliegue de aplicaciones en la nube.
+Full-stack dev & hardware tinkerer.
+Web, mobile y microcontroladores. Si involucra código o fierros, lo armo.
 
 ---
 
